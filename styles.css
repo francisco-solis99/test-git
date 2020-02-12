@@ -1,0 +1,32 @@
+.content {
+    width: 960px;
+    margin: 0 auto;
+}
+
+.content h1 {
+    text-align: center;
+}
+
+.left {
+    float: left;
+    width: 260px;
+}
+
+.right {
+    float: right;
+    width: 700px;
+}
+
+.right ul {
+    margin: 0 auto;
+    padding: 0;
+    list-style-type: none;
+}
+
+.right ul li {
+    list-style: none;
+    overflow: hidden;
+    width: 230px;
+    padding: 1px;
+    float: left;
+}
